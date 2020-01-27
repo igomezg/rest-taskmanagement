@@ -5,7 +5,7 @@ API Rest with Spring Boot 2 + H2 + Swagger 2
  - JDK 1.8 and Maven 3.x is necessary
     ```sh
         $ git clone https://github.com/igomezg/rest-taskmanagement.git
-        $ cd cd rest-taskmanagement
+        $ cd rest-taskmanagement
     ``` 
   - For run app
     ```sh  
