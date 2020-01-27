@@ -14,4 +14,4 @@ API Rest with Spring Boot 2 + H2 + Swagger 2
 # API documentation
   ### For test the app and see the documentation we use Swagger:
   - You can type this url for check:
-        http://localhost:8080/swagger-ui.htm
+        http://localhost:8080/swagger-ui.html
